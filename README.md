@@ -1,4 +1,4 @@
-# Twitter Text Analysis: A Friendly Introduction
+# Twitter Text Analysis
 This repo contains code to the two-part blog post on Twitter sentiment analysis:
 - The first part introduces the dataset, preprocessing procedure, and exploratory data analysis we can perform with twitter data.
 - The second part goes through the sentiment classification task, adopting a pipeline from this tutorial[^1] 
